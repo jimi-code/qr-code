@@ -1,0 +1,41 @@
+body {
+    background-color: #d5e1ef;
+}
+
+.improve {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-weight: 900;
+     font-size: x-large;
+}
+
+.qr {
+    width: 300px; 
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+    background-color: #ffffff;
+    border: 1px solid black;
+}
+
+.qr-container {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    border-radius: 10px;
+    
+    
+}
+
+.img {
+    width: 100%; 
+    height: auto;
+    border-radius: 10px; 
+    padding-bottom: 10px;
+}
+
+.scan {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    opacity: 0.5;
+}
